@@ -1,15 +1,21 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yeabisera Tesefaye
-==========================================================================================================================================
+Here's a refined version with better flow and clarity:
 
-Full Stack Developer | Penetration Tester
---------------------------------------------------------------
+---
 
-Computer Science graduate passionate about backend development. Currently working as a Penetration Tester at Ethiopian Airlines, leveraging my expertise to enhance security and optimize systems. Continuously learning and committed to creating impactful, innovative software.
+# Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  
+## I'm Yeabisera Tesefaye  
 
-* 🌍  I'm based in Addis Ababa, Ethiopia
-* ✉️  You can contact me at [hereisyeab@gmail.com](mailto:hereisyeab@gmail.com)
-* 🤝  I'm open to collaborating on Diverse projects
-* ⚡  I’m passionate about coding and always eager to bring ideas to life through collaboration. Open to partnering with like-minded individuals on innovative projects. Actively seeking remote opportunities to contribute and grow in a dynamic, tech-driven environment.
+**Full Stack Developer | Penetration Tester**  
+---
+
+I'm a **Full Stack Developer** and **Penetration Tester** based in **Addis Ababa, Ethiopia**, passionate about building secure, scalable, and efficient solutions. Always eager to learn and grow, I see every challenge as an opportunity to improve. I'm open to collaborating with like-minded individuals and excited about remote opportunities to expand my skills and contribute to innovative projects.
+
+* 🌍  **Location:** Addis Ababa, Ethiopia  
+* ✉️  **Contact:** [hereisyeab@gmail.com](mailto:hereisyeab@gmail.com)  
+* 🤝  **Collaboration:** Open to diverse projects in development and cybersecurity  
+* ⚡  **Passion:** Bringing ideas to life through code and securing digital landscapes. Always on the lookout for dynamic, tech-driven environments to thrive in.
+
+
 
 ### Skills
 
