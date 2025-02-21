@@ -1,6 +1,6 @@
 
 # Hi there! 👋  
-## I'm **Yeabisera Tesefaye**  
+## I'm **Yeabsera Tesfaye**  
 
 **Full Stack Developer | Penetration Tester**  
 ---
