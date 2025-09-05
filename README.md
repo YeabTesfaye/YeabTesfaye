@@ -1,14 +1,14 @@
 # 👋 Hello there!  
-## I'm **Yeabsera Tesfaye**  
+## I'm **Yeabsera (Yeab) Tesfaye**  
 
-**Full Stack Developer | Security Enthusiast**  
+**Backend & AI Software Engineer | Security Enthusiast**  
 *Based in Addis Ababa, Ethiopia*
 
 ---
 
-I’m a developer who cares deeply about both **building great software** and **keeping it secure**. With a background in penetration testing and full stack development, I bring a unique blend of offensive security insight and clean engineering practices.
+I’m a developer passionate about **building scalable AI systems**, **full stack applications**, and **keeping software secure**. With experience in penetration testing, backend engineering, and AI/ML projects, I bring a unique blend of offensive security insight, clean engineering, and practical AI expertise.  
 
-My work is driven by curiosity, creativity, and a commitment to constant growth. Whether I’m automating security tests in Python or deploying full stack apps with Docker, I’m always excited to learn and collaborate with others.
+My work is driven by curiosity, creativity, and a commitment to growth. Whether I’m **benchmarking LLMs on custom STEM datasets**, **automating security tests**, or **deploying apps with Docker and cloud tools**, I’m always excited to learn and collaborate.  
 
 ---
 
@@ -16,7 +16,8 @@ My work is driven by curiosity, creativity, and a commitment to constant growth.
 
 **Languages:** Python, JavaScript, TypeScript  
 **Frameworks:** FastAPI, Flask, Express.js, React, Next.js  
-**DevOps & Tools:** Docker, Git, GitHub Actions  
+**AI/ML Tools:** PyTorch, TensorFlow, LangChain  
+**DevOps & Tools:** Docker, Git, GitHub Actions, AWS/GCP  
 **Databases:** MongoDB, PostgreSQL  
 **Practices:** REST APIs, MVC, Clean Architecture, CI/CD, Unit Testing  
 
@@ -25,17 +26,18 @@ My work is driven by curiosity, creativity, and a commitment to constant growth.
 ### 🌍 Let’s Connect
 
 📧 **Email:** [hereisyeab@gmail.com](mailto:hereisyeab@gmail.com)  
-🔗 **LinkedIn:** [Yeabsera Tesfaye](https://www.linkedin.com/in/yeabisera-tesefaye)  
+🔗 **LinkedIn:** [Yeabsera Tesfaye](https://www.linkedin.com/in/yeab-tesefaye/)  
 💻 **GitHub:** [@yeabtesfaye](https://github.com/yeabtesfaye)  
 
 ---
 
 ### 📌 Current Focus
 
+- 🤖 Building AI/LLM platforms and synthetic STEM data pipelines  
 - 🔐 Advancing in penetration testing through real-world simulations  
-- 🛠 Building full stack projects with Next.js, Prisma, and PostgreSQL  
-- 🌩 Learning AWS to level up my DevOps skills  
-- 🤝 Contributing to open-source and growing as a remote engineer
+- 🛠 Developing full stack projects with Next.js, Prisma, and PostgreSQL  
+- 🌩 Learning AWS & cloud deployment to level up DevOps skills  
+- 🤝 Contributing to open-source and growing as a remote engineer  
 
 ---
 
@@ -48,4 +50,4 @@ My work is driven by curiosity, creativity, and a commitment to constant growth.
 ---
 
 Thanks for stopping by 🙌  
-Feel free to check out my projects and reach out if you'd like to collaborate!
+Check out my projects and feel free to reach out for collaboration!  
