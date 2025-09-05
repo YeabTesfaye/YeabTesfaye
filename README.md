@@ -17,7 +17,7 @@ My work is driven by curiosity, creativity, and a commitment to growth. Whether 
 **Languages:** Python, JavaScript, TypeScript  
 **Frameworks:** FastAPI, Flask, Express.js, React, Next.js  
 **AI/ML Tools:** PyTorch, TensorFlow, LangChain  
-**DevOps & Tools:** Docker, Git, GitHub Actions, AWS/GCP  
+**DevOps & Tools:** Docker, Git, GitHub Actions, GCP  
 **Databases:** MongoDB, PostgreSQL  
 **Practices:** REST APIs, MVC, Clean Architecture, CI/CD, Unit Testing  
 
@@ -36,7 +36,7 @@ My work is driven by curiosity, creativity, and a commitment to growth. Whether 
 - 🤖 Building AI/LLM platforms and synthetic STEM data pipelines  
 - 🔐 Advancing in penetration testing through real-world simulations  
 - 🛠 Developing full stack projects with Next.js, Prisma, and PostgreSQL  
-- 🌩 Learning AWS & cloud deployment to level up DevOps skills  
+- 🌩 Learning GCP & cloud deployment to level up DevOps skills  
 - 🤝 Contributing to open-source and growing as a remote engineer  
 
 ---
