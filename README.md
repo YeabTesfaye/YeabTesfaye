@@ -65,14 +65,7 @@ I aim to write clean, maintainable code and design systems that scale.
 - Learning cloud infrastructure and deployment (GCP, Docker)  
 - Contributing to open-source projects  
 
----
-## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeabtesfaye&show_icons=true&count_private=true&theme=default)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=yeabtesfaye&theme=default)
-
----
 
 ## Contact
 
