@@ -66,12 +66,11 @@ I aim to write clean, maintainable code and design systems that scale.
 - Contributing to open-source projects  
 
 ---
-
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeabtesfaye&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeabtesfaye&show_icons=true&count_private=true&theme=default)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yeabtesfaye)
+![GitHub Streak](https://streak-stats.demolab.com?user=yeabtesfaye&theme=default)
 
 ---
 
