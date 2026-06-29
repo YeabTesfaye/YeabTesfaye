@@ -32,7 +32,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeabTesfaye&show_icons=true&theme=default&hide_border=true" alt="Yeab's GitHub stats" />
+  <img src="https://github-readme-stats-sigma-pink.vercel.app/api?username=yeabTesfaye&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Yeab's GitHub stats" />
 </p>
 
 <p align="center">
@@ -40,5 +40,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeabTesfaye&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-pink.vercel.app/api/top-langs/?username=yeabTesfaye&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
