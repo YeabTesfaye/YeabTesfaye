@@ -1,83 +1,44 @@
-# Yeabsera (Yeab) Tesfaye
+# Hi, I'm Yeabsera (Yeab) Tesefaye 👋🏻
 
-Software Engineer  
-Addis Ababa, Ethiopia  
+<p align="left">
+  A Full-Stack Developer building production-grade web applications with Next.js and FastAPI. Alongside full-stack work, I conduct authorized penetration testing and am expanding into AI engineering, building LLM-based systems and multi-agent architectures.
+</p>
 
----
-
-## About Me
-
-I am a software engineer focused on building scalable, secure, and practical systems.  
-My work combines backend engineering, AI/ML, and security thinking to create applications that are reliable and production-ready.
-
-I have experience in:
-- Backend development and API design  
-- Full stack application development  
-- Penetration testing and security analysis  
-- AI/ML integration into real-world systems  
-
-I aim to write clean, maintainable code and design systems that scale.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,py,nextjs,react,fastapi,nodejs,tailwind,postgres,prisma,mongodb,redis,docker,git,github,linux,vercel" />
+  </a>
+</p>
 
 ---
 
-## Tech Stack
+### 🔭 What I'm working on
+- Building full-stack applications for local and international clients as a freelance developer
+- Authoring adversarial evaluation tasks for top-tier LLMs (Claude, GPT, Gemini) to expose reliability and correctness failures
+- Conducting authorized penetration tests on production systems, including IAM and identity platforms
+- Transitioning deeper into AI engineering: RAG pipelines, multi-agent systems, and LLM evaluation
 
-**Languages**
-- Python
-- JavaScript
-- TypeScript
+### 🛠️ Core Stack
+- **Frontend:** Next.js (App Router), React, TypeScript, Tailwind CSS, shadcn/ui
+- **Backend:** FastAPI, Python, Node.js, SQLAlchemy (async)
+- **Databases:** PostgreSQL, Prisma, MongoDB, Redis
+- **AI/ML:** LLM integration, RAG, CrewAI multi-agent systems, prompt engineering
+- **Security:** Web app penetration testing, vulnerability analysis, reporting
+- **Tools:** Docker, Git, Linux
 
-**Frameworks & Libraries**
-- FastAPI
-- Flask
-- Express.js
-- React
-- Next.js
-
-**AI / ML**
-- PyTorch
-- TensorFlow
-- LangChain
-
-**DevOps & Tools**
-- Docker
-- Git
-- GitHub Actions
-- Google Cloud Platform (GCP)
-
-**Databases**
-- PostgreSQL
-- MongoDB
-
-**Practices**
-- REST API Design
-- Clean Architecture
-- CI/CD
-- Unit Testing
+### 📫 Reach me
+- LinkedIn: [linkedin.com/in/yeab-tesefaye](https://www.linkedin.com/in/yeab-tesefaye)
 
 ---
 
-## Current Focus
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yeabTesfaye&show_icons=true&theme=default&hide_border=true" alt="Yeab's GitHub stats" />
+</p>
 
-- Building full stack applications with modern architectures  
-- Improving skills in penetration testing through practical scenarios  
-- Working with Next.js, Prisma, and PostgreSQL  
-- Learning cloud infrastructure and deployment (GCP, Docker)  
-- Contributing to open-source projects  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yeabTesfaye&theme=default&hide_border=true" alt="Yeab's GitHub streak" />
+</p>
 
-
-
-## Contact
-
-Email: hereisyeab@gmail.com  
-LinkedIn: https://www.linkedin.com/in/yeab-tesefaye/  
-GitHub: https://github.com/yeabtesfaye  
-
----
-
-## Notes
-
-I am open to collaboration on meaningful projects, especially in:
-- Backend systems
-- AI-driven applications
-- Security-focused platforms
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeabTesfaye&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
